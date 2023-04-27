@@ -15,10 +15,6 @@ That is:
 
 Check docs for the SQL scripts to run.
 
-## About
-
-Created by group 9 of Professor Leinecker's _Processes of Object Oriented Software Design_ class.
-
 © 2022 Copyright:  Michael Richter
 
 
